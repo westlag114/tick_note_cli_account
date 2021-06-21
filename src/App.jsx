@@ -8,6 +8,7 @@ import "./styles/App.less";
 import "./styles/global.scss";
 import { RecoilRoot } from "recoil";
 import AuthRouter from "./utilities/AuthRouter";
+// アカウント更新のビューを作成する
 
 const App = () => {
   return (
