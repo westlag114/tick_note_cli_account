@@ -8,6 +8,7 @@ import "./styles/App.less";
 import "./styles/global.scss";
 import { RecoilRoot } from "recoil";
 import AuthRouter from "./utilities/AuthRouter";
+// TickNoteの使い方説明ページを実装する
 
 const App = () => {
   return (
