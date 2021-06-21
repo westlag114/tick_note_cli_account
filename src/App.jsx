@@ -8,6 +8,7 @@ import "./styles/App.less";
 import "./styles/global.scss";
 import { RecoilRoot } from "recoil";
 import AuthRouter from "./utilities/AuthRouter";
+// 初めてのコミット
 
 const App = () => {
   return (
